@@ -12,7 +12,7 @@ This project is a classic implementation of the Snake game. The player controls 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/AnonymDev-Sec/Snake-Game.git
+   git clone https://github.com/JedidiaDev/Snake-Game.git
    cd Snake-Game
    ```
 
